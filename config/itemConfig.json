@@ -1,0 +1,80 @@
+{
+	"HelmetAccs":{
+		"AddGearBlack_SLAAP": true,
+		"AddGearBlack_TrooperMask": true,
+		"AddGearBlack_FASTGunsight": true,
+		"AddGearBlack_AltynBulletproof": true,
+		"AddGearBlack_MaskaFaceShield": true,
+		"AddGearBlack_AirFrameChops": true,
+		"AddGearBlack_AirFrameEars": true,
+		"AddGearBlack_GPNVG18": true
+	},
+	"ArmoredVests": {
+		"AddGearBlack_NFMThor": true,
+		"AddGearBlack_RedutT5": true,
+		"AddGearBlack_6B13": true,
+		"AddGearBlack_6B13Killa": true,
+		"AddGearBlack_6B23": true,
+		"AddGearBlack_GzhelK": true,
+		"AddGearBlack_Defender2": true,
+		"AddGearBlack_RedutM": true,
+		"AddGearBlack_TrooperUSEC": true,
+		"AddGearBlack_TrooperClean": true,
+		"AddGearBlack_GEN4_Full": true,
+		"AddGearBlack_GEN4_Assault": true,
+		"AddGearBlack_GEN4_Mobility": true,
+		"AddGearBlack_UntarVest": true
+	},
+	"Backpack":{
+		"AddGearBlack_HazardDrawbridge": true,
+		"AddGearBlack_Attack2": true,
+		"AddGearBlack_Berkut": true,
+		"AddGearBlack_Beta2": true,
+		"AddGearBlack_Paratus": true,
+		"AddGearBlack_TriZip": true,
+		"AddGearBlack_F4Terminator": true,
+		"AddGearBlack_F5SwitchBlade": true,
+		"AddGearBlack_MBSS": true,
+		"AddGearBlack_DayPack": true,
+		"AddGearBlack_G2Gunslinger": true,
+		"AddGearBlack_TacticalSling": true
+	},
+	"FaceCover":{
+		"AddGearBlack_ShemaghGreen": true,
+		"AddGearBlack_ShemaghTan": true,
+		"AddGearBlack_WeldingMask": true
+	},
+	"Headwear":{
+		"AddGearBlack_6B47DigitalCover": true,
+		"AddGearBlack_AirFrameHelmet": true,
+		"AddGearBlack_Altyn": true,
+		"AddGearBlack_MaskaHelmet": true,
+		"AddGearBlack_BossCap": true,
+		"AddGearBlack_USECBaseball": true,
+		"AddGearBlack_FleeceBeanie": true,
+		"AddGearBlack_Bandana": true,
+		"AddGearBlack_UNTARHelmet": true,
+		"AddGearBlack_BoonieHat": true,
+		"AddGearBlack_DoorKickerHat": true,
+		"AddGearBlack_UXPro": true,
+		"AddGearBlack_MICH2001": true,
+		"AddGearBlack_MICH2002": true
+	},
+	"Rigs":{
+		"AddGearBlack_CPC": true,
+		"AddGearBlack_TV110": true,
+		"AddGearBlack_CryeAVS": true,
+		"AddGearBlack_KIASSBagariy": true,
+		"AddGearBlack_A18Skanda": true,
+		"AddGearBlack_TacticalAlpha": true,
+		"AddGearBlack_TacticalM1": true,
+		"AddGearBlack_TacticalM2": true,
+		"AddGearBlack_ArsCPC": true,
+		"AddGearBlack_AVSMBAV": true,
+		"AddGearBlack_TacticalTacTec": true,
+		"AddGearBlack_D3CRX": true,
+		"AddGearBlack_LBT1961A": true,
+		"AddGearBlack_TV109106": true,
+		"AddGearBlack_M33SET1":	true
+	}
+}

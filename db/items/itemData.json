@@ -1,0 +1,332 @@
+{
+    "AddGearBlack_SLAAP": {
+        "BaseItemID":"5c0e66e2d174af02a96252f4",
+        "BundlePath": "AddGearBlack/HelmetAccs/slaap_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_TrooperMask": {
+        "BaseItemID":"5ea058e01dbce517f324b3e2",
+        "BundlePath": "AddGearBlack/HelmetAccs/tk_heavy_trooper_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_FASTGunsight": {
+        "BaseItemID":"5a16ba61fcdbcb098008728a",
+        "BundlePath": "AddGearBlack/HelmetAccs/ops_core_mandible_mesh_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_AltynBulletproof": {
+        "BaseItemID":"5aa7e373e5b5b000137b76f0",
+        "BundlePath": "AddGearBlack/HelmetAccs/altyn_shield_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_MaskaFaceShield": {
+        "BaseItemID":"5c0919b50db834001b7ce3b9",
+        "BundlePath": "AddGearBlack/HelmetAccs/maska_1sh_black_shield.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_AirFrameChops": {
+        "BaseItemID":"5c178a942e22164bef5ceca3",
+        "BundlePath": "AddGearBlack/HelmetAccs/airframe_chops_mesh_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_AirFrameEars": {
+        "BaseItemID":"5c1793902e221602b21d3de2",
+        "BundlePath": "AddGearBlack/HelmetAccs/airframe_ears_mesh_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_NFMThor": {
+        "BaseItemID":"60a283193cb70855c43a381d",
+        "BundlePath": "AddGearBlack/ArmoredVests/thor_carrier_full.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_RedutT5": {
+        "BaseItemID":"5ca21c6986f77479963115a7",
+        "BundlePath": "AddGearBlack/ArmoredVests/redutt5_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_6B13": {
+        "BaseItemID":"5c0e51be86f774598e797894",
+        "BundlePath": "AddGearBlack/ArmoredVests/6b13_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_6B13Killa": {
+        "BaseItemID":"5c0e541586f7747fa54205c9",
+        "BundlePath": "AddGearBlack/ArmoredVests/6b13m_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_6B23": {
+        "BaseItemID":"5c0e57ba86f7747fa141986d",
+        "BundlePath": "AddGearBlack/ArmoredVests/6b23_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_GzhelK": {
+        "BaseItemID":"5ab8e79e86f7742d8b372e78",
+        "BundlePath": "AddGearBlack/ArmoredVests/gzhelk_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_Defender2": {
+        "BaseItemID":"5e9dacf986f774054d6b89f4",
+        "BundlePath": "AddGearBlack/ArmoredVests/def2_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_RedutM": {
+        "BaseItemID":"5ca2151486f774244a3b8d30",
+        "BundlePath": "AddGearBlack/ArmoredVests/redutm_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_TrooperUSEC": {
+        "BaseItemID":"5c0e655586f774045612eeb2",
+        "BundlePath": "AddGearBlack/ArmoredVests/trooper_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_TrooperClean": {
+        "BaseItemID":"5c0e655586f774045612eeb2",
+        "BundlePath": "AddGearBlack/ArmoredVests/trooper_black_clean.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_GEN4_Full": {
+        "BaseItemID":"5b44cd8b86f774503d30cba2",
+        "BundlePath": "AddGearBlack/ArmoredVests/gen4_black_mesh_1.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_GEN4_Assault": {
+        "BaseItemID":"5b44cf1486f77431723e3d05",
+        "BundlePath": "AddGearBlack/ArmoredVests/gen4_black_mesh_2.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_GEN4_Mobility": {
+        "BaseItemID":"5b44d0de86f774503d30cba8",
+        "BundlePath": "AddGearBlack/ArmoredVests/gen4_black_mesh_3.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_UntarVest": {
+        "BaseItemID":"5ab8e4ed86f7742d8e50c7fa",
+        "BundlePath": "AddGearBlack/ArmoredVests/untarvest_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_HazardDrawbridge": {
+        "BaseItemID":"60a272cc93ef783291411d8e",
+        "BundlePath": "AddGearBlack/Backpack/hazard4_drawbridge.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_Attack2": {
+        "BaseItemID":"5ab8ebf186f7742d8b372e80",
+        "BundlePath": "AddGearBlack/Backpack/attack2_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_Berkut": {
+        "BaseItemID":"5ca20d5986f774331e7c9602",
+        "BundlePath": "AddGearBlack/Backpack/berkut_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_Beta2": {
+        "BaseItemID":"5b44c6ae86f7742d1627baea",
+        "BundlePath": "AddGearBlack/Backpack/beta2_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_Paratus": {
+        "BaseItemID":"5c0e805e86f774683f3dd637",
+        "BundlePath": "AddGearBlack/Backpack/paratus_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_TriZip": {
+        "BaseItemID":"545cdae64bdc2d39198b4568",
+        "BundlePath": "AddGearBlack/Backpack/trizip_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_F4Terminator": {
+        "BaseItemID":"5f5e46b96bdad616ad46d613",
+        "BundlePath": "AddGearBlack/Backpack/f4terminator_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_F5SwitchBlade": {
+        "BaseItemID":"5f5e467b0bc58666c37e7821",
+        "BundlePath": "AddGearBlack/Backpack/f5switchblade_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_MBSS": {
+        "BaseItemID":"544a5cde4bdc2d39388b456b",
+        "BundlePath": "AddGearBlack/Backpack/mbss_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_DayPack": {
+        "BaseItemID":"5e9dcf5986f7746c417435b3",
+        "BundlePath": "AddGearBlack/Backpack/daypack_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_G2Gunslinger": {
+        "BaseItemID":"6034d2d697633951dc245ea6",
+        "BundlePath": "AddGearBlack/Backpack/g2gunslinger_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_TacticalSling": {
+        "BaseItemID":"5ab8f04f86f774585f4237d8",
+        "BundlePath": "AddGearBlack/Backpack/sling_bag.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_ShemaghGreen": {
+        "BaseItemID":"5ab8f85d86f7745cd93a1cf5",
+        "BundlePath": "AddGearBlack/FaceCover/shemaghV1_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_ShemaghTan": {
+        "BaseItemID":"5b4325355acfc40019478126",
+        "BundlePath": "AddGearBlack/FaceCover/shemaghV2_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_WeldingMask": {
+        "BaseItemID":"60a7ad2a2198820d95707a2e",
+        "BundlePath": "AddGearBlack/FaceCover/welding_mask.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_6B47DigitalCover": {
+        "BaseItemID":"5aa7cfc0e5b5b00015693143",
+        "BundlePath": "AddGearBlack/Headwear/6b47covered_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_AirFrameHelmet": {
+        "BaseItemID":"5c17a7ed2e2216152142459c",
+        "BundlePath": "AddGearBlack/Headwear/airframe_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_Altyn": {
+        "BaseItemID":"5aa7e276e5b5b000171d0647",
+        "BundlePath": "AddGearBlack/Headwear/altyn_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_MaskaHelmet": {
+        "BaseItemID":"5c091a4e0db834001d5addc8",
+        "BundlePath": "AddGearBlack/Headwear/maska_1sh_black_mesh.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_BossCap": {
+        "BaseItemID":"60a7acf20c5cb24b01346648",
+        "BundlePath": "AddGearBlack/Headwear/cap_backwards.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_USECBaseball": {
+        "BaseItemID":"5aa2a7e8e5b5b00016327c16",
+        "BundlePath": "AddGearBlack/Headwear/cap_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_FleeceBeanie": {
+        "BaseItemID":"5aa2ba19e5b5b00014028f4e",
+        "BundlePath": "AddGearBlack/Headwear/fleece_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_Bandana": {
+        "BaseItemID":"5b43271c5acfc432ff4dce65",
+        "BundlePath": "AddGearBlack/Headwear/head_bandana_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_UNTARHelmet": {
+        "BaseItemID":"5aa7d03ae5b5b00016327db5",
+        "BundlePath": "AddGearBlack/Headwear/untarhelmet_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_BoonieHat": {
+        "BaseItemID":"5b4327aa5acfc400175496e0",
+        "BundlePath": "AddGearBlack/Headwear/panama_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_DoorKickerHat": {
+        "BaseItemID":"5d96141523f0ea1b7f2aacab",
+        "BundlePath": "AddGearBlack/Headwear/doorkicker_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_UXPro": {
+        "BaseItemID":"5aa2ba46e5b5b000137b758d",
+        "BundlePath": "AddGearBlack/Headwear/uxpro_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_MICH2001": {
+        "BaseItemID":"5d5e7d28a4b936645d161203",
+        "BundlePath": "AddGearBlack/Headwear/mich2001_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_MICH2002": {
+        "BaseItemID":"5d5e9c74a4b9364855191c40",
+        "BundlePath": "AddGearBlack/Headwear/mich2002_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_GPNVG18": {
+        "BaseItemID":"5c0558060db834001b735271",
+        "BundlePath": "AddGearBlack/HelmetAccs/gpnvg18_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_CPC": {
+        "BaseItemID":"628b9c7d45122232a872358f",
+        "BundlePath": "AddGearBlack/Rigs/CPC.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_TV110": {
+        "BaseItemID":"5c0e746986f7741453628fe5",
+        "BundlePath": "AddGearBlack/Rigs/tv110_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_CryeAVS": {
+        "BaseItemID":"628d0618d1ba6e4fa07ce5a4",
+        "BundlePath": "AddGearBlack/Rigs/cryeavs_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_KIASSBagariy": {
+        "BaseItemID":"628d0618d1ba6e4fa07ce5a4",
+        "BundlePath": "AddGearBlack/Rigs/rig_bagarii_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_A18Skanda": {
+        "BaseItemID":"5d5d87f786f77427997cfaef",
+        "BundlePath": "AddGearBlack/Rigs/a18_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_TacticalAlpha": {
+        "BaseItemID":"592c2d1a86f7746dbe2af32a",
+        "BundlePath": "AddGearBlack/Rigs/anaalpha_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_TacticalM1": {
+        "BaseItemID":"5c0e722886f7740458316a57",
+        "BundlePath": "AddGearBlack/Rigs/anam1_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_TacticalM2": {
+        "BaseItemID":"5ab8dced86f774646209ec87",
+        "BundlePath": "AddGearBlack/Rigs/anam2_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_ArsCPC": {
+        "BaseItemID":"5e4ac41886f77406a511c9a8",
+        "BundlePath": "AddGearBlack/Rigs/arscpc_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_AVSMBAV": {
+        "BaseItemID":"609e860ebd219504d8507525",
+        "BundlePath": "AddGearBlack/Rigs/avs_mbav.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_TacticalTacTec": {
+        "BaseItemID":"5b44cad286f77402a54ae7e5",
+        "BundlePath": "AddGearBlack/Rigs/tacteccarrier_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_D3CRX": {
+        "BaseItemID":"5d5d85c586f774279a21cbdb",
+        "BundlePath": "AddGearBlack/Rigs/d3crx_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_LBT1961A": {
+        "BaseItemID":"5e9db13186f7742f845ee9d3",
+        "BundlePath": "AddGearBlack/Rigs/lbt1961a_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_TV109106": {
+        "BaseItemID":"59e7643b86f7742cbf2c109a",
+        "BundlePath": "AddGearBlack/Rigs/tv109_black.bundle",
+        "LootWeigthMult": 0.25
+    },
+    "AddGearBlack_M33SET1": {
+        "BaseItemID":"6034cf5fffd42c541047f72e",
+        "BundlePath": "AddGearBlack/Rigs/umka_black.bundle",
+        "LootWeigthMult": 0.25
+    }
+}

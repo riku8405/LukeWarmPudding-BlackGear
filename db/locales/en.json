@@ -1,0 +1,332 @@
+{
+    "AddGearBlack_SLAAP":{
+        "Name":"Ops-Core SLAAP armor helmet plate (Black)",
+        "Shortname":"SLAAP-B",
+        "Description":"Additional armor for the Ops-Core FAST helmet, made of a special polyethylene plate (5th protection class)."
+    },
+    "AddGearBlack_TrooperMask":{
+        "Name":"Tac-Kek Heavy Trooper mask for Ops-Core-type helmets - Black",
+        "Shortname":"TK Heavy Trooper - B",
+        "Description":"Tac-Kek Heavy Trooper, an additional helmet ballistic mask module based on the Ops Core type, based on the famous movie universe. This is the Way. Looks good in Black."
+    },
+    "AddGearBlack_FASTGunsight":{
+        "Name":"Ops-Core FAST Gunsight Mandible - Black",
+        "Shortname":"Mandible - B",
+        "Description":"Special additional ballistic protection for the Ops-Core FAST helmet, mounted on the Side Armor component. Now without that god-awful camo"
+    },
+    "AddGearBlack_AltynBulletproof":{
+        "Name":"'Altyn' Face Shield - Black",
+        "Shortname":"Alytn FS-Black",
+        "Description":"A special armored face shield for the 'Altyn' heavy assault helmet. Increases the chances of surviving the impacts of bullets and shrapnel. Black Finish."
+    },
+    "AddGearBlack_MaskaFaceShield":{
+        "Name":"Maska-1SCh face shield (Black)",
+        "Shortname":"1SCh FS Black",
+        "Description":"A special steel bulletproof faceshield for the Maska-1SCh (Mask-1 Shield) helmet. Black Finish."
+    },
+    "AddGearBlack_AirFrameChops":{
+        "Name":"Crye Precision AirFrame Chops (Black)",
+        "Shortname":"AF Chops Black",
+        "Description":"An additional armor module for the Crye Precision AirFrame helmet, which protects the ear and the jaw area from fragmentation and small-caliber ricochets. Black Edition."
+    },
+    "AddGearBlack_AirFrameEars":{
+        "Name":"Crye Precision Airframe Ears (Black)",
+        "Shortname":"AF Ears Black",
+        "Description":"An additional armor module for the Crye Precision AirFrame helmet, which protects the ear area from fragmentation and small-caliber ricochets. Black Edition."
+    },
+    "AddGearBlack_NFMThor":{
+        "Name":"NFM THOR Integrated Carrier body armor - Black",
+        "Shortname":"THOR ICB",
+        "Description":"The THOR full protection assault body armor equipped with soft and hard armor elements to protect against shrapnel and bullets of pistol and rifle calibers. Now in Black. Manufactured by NFM."
+    },
+    "AddGearBlack_RedutT5":{
+        "Name":"FORT 'Redut-T5' body armor - Black",
+        "Shortname":"Redut-T5 Black",
+        "Description":"The FORT 'Redut T5' armor vest is a reinforced version of Redut armor series, designed with account of the many years of experience in counter-terrorism operations in the Russian Federation. Black Edition."
+    },
+    "AddGearBlack_6B13":{
+        "Name":"6b13 Assault Armor (Black)",
+        "Shortname":"6B13 B",
+        "Description":"The main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions. Black version."
+    },
+    "AddGearBlack_6B13Killa":{
+        "Name":"6b13 Assault Armor Modified (Black)",
+        "Shortname":"6B13M-B",
+        "Description":"A 6B13 armored vest that has had its ceramic armored plates replaced with lightweight polyethylene plates. The protection class is higher and the weight is lower. This particular set of armor has been personally modified by Killa. Black Edition."
+    },
+    "AddGearBlack_6B23":{
+        "Name":"6B23 body armor (Black)",
+        "Shortname":"6B23 B",
+        "Description":"The Zabralo-8 main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions. Black Edition."
+    },
+    "AddGearBlack_GzhelK":{
+        "Name":"BNTI 'Gzhel-K' body armor (Black)",
+        "Shortname":"Gzhel-K Black",
+        "Description":"The Gzhel assault bulletproof vest is designed for assault units of the Ministry of Internal Affairs and other law enforcement agencies. A special variant of Gzhel-K armor is equipped with ceramic armored panels based on corundum (Russian GOST class 5 protection). Black Edition."
+    },
+    "AddGearBlack_Defender2":{
+        "Name":"FORT Defender-2 body armor (Black)",
+        "Shortname":"Defender-2 Black",
+        "Description":"The FORT OK 'Defender-2' operational kit is a modification of the popular body armor FORT 'Defender' designed for both VIP and for employees of operational combat units. The kit uses the maximum capabilities of the modular principle of building armor based on steel plates. Black Edition."
+    },
+    "AddGearBlack_RedutM":{
+        "Name":"FORT Redut-M body armor (Black)",
+        "Shortname":"Redut-M Black",
+        "Description":"'Redut-M' is a modified version of the well-proven Redut body armor, which is in service of special units of the FSB. The vest is based on advanced technologies in the field of individual armor. Due to the optimized form of armor elements and the outer cover with a special damping-ventilation system, the Redut M armored vest has excellent functional qualities, which facilitates active actions, including those associated with the use of vehicles and in confined spaces. Black Edition."
+    },
+    "AddGearBlack_TrooperUSEC":{
+        "Name":"HighCom Trooper TFO body armor (Black)",
+        "Shortname":"Trooper Black",
+        "Description":"A plate armor vest by HighCom, popular among USEC PMCs. The lightweight AR500 class 4 (Russian GOST) protection plates cover only the chest and back areas. Black version."
+    },
+    "AddGearBlack_TrooperClean":{
+        "Name":"HighCom Trooper TFO body armor (Black, No USEC)",
+        "Shortname":"Trooper Black-C",
+        "Description":"A plate armor vest by HighCom, popular among USEC PMCs. The lightweight AR500 class 4 (Russian GOST) protection plates cover only the chest and back areas. Black version without USEC Badging."
+    },
+    "AddGearBlack_GEN4_Full":{
+        "Name": "IOTV Gen4 body armor (full protection, Black Edition)",
+        "Shortname": "Gen4 Full Black",
+        "Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Full protection kit. Black Edition."
+    },
+    "AddGearBlack_GEN4_Assault":{
+        "Name": "IOTV Gen4 body armor (assault kit, Black Edition)",
+        "Shortname": "Gen4 Assault Black",
+        "Description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased ergonomics assault kit. Black Edition."
+    },
+    "AddGearBlack_GEN4_Mobility":{
+        "Name":"IOTV Gen4 body armor (high mobility kit, Black)",
+        "Shortname":"Gen4 HMK Black",
+        "Description":"The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased mobility and comfort kit. Black edition."
+    },
+    "AddGearBlack_UntarVest":{
+        "Name":"MF-UNTAR body armor Black",
+        "Shortname":"MF-UN Black",
+        "Description":"A class III body armor used by UN soldiers during the UNTAR mission in Tarkov. Black Edition."
+    },
+    "AddGearBlack_HazardDrawbridge":{
+        "Name":"Hazard 4 Drawbridge backpack (Black)",
+        "Shortname":"Drawbridge - B",
+        "Description":"Drawbridge is an ergonomical medium-size 25L backpack with an impressive amount of modular pouches and straps. Now in Black Manufactured by Hazard 4."
+    },
+    "AddGearBlack_Attack2":{
+        "Name":"SSO Attack 2 raid backpack (Black)",
+        "Shortname":"Attack 2 Black",
+        "Description":"The 60-liter 'Attack 2' raid backpack is intended for carrying personal belongings and equipment through tough field conditions. Black Edition."
+    },
+    "AddGearBlack_Berkut":{
+        "Name":"WARTECH Berkut BB-102 backpack (Black)",
+        "Shortname":"Berkut Black",
+        "Description":"A tactical backpack with front loading capabilities. Suitable for use by military and security forces, or for military tactical games. Manufactured by WARTECH. Black Edition."
+    },
+    "AddGearBlack_Beta2":{
+        "Name":"ANA Tactical Beta 2 Battle Backpack",
+        "Shortname":"Beta 2 Black",
+        "Description":"A lightweight and capacious backpack from ANA Tactical. Specially designed for use in dynamic conditions and on rough terrain. Black Edition"
+    },
+    "AddGearBlack_Paratus":{
+        "Name":"3V Gear Paratus 3-Day Operator's Tactical backpack (Black)",
+        "Shortname":"Paratus Black",
+        "Description":"A modular, PVC-backed, polyester backpack for PMC operators who are going to be traversing across the rugged terrain of the Norvinsk region. Black Edition."
+    },
+    "AddGearBlack_TriZip":{
+        "Name":"Camelbak Tri-Zip assault backpack (Black)",
+        "Shortname":"Tri-Zip Black",
+        "Description":"A Mid-sized versatile assault pack. Spacious, sturdy and comfortable, this backpack is loved both by military and hikers worldwide. 34L of total space, a hydration system, easy access to side pockets, near-perfect suspension, and a MOLLE attachment system make it a great choice for up to 72 hours of autonomous hiking... or carrying a good load of loot. Tactical Black Edition."
+    },
+    "AddGearBlack_F4Terminator":{
+        "Name":"Eberlestock F4 Terminator load bearing backpack (Black)",
+        "Shortname":"F4 Terminator Black",
+        "Description":"An extremely versatile full-format load bearing backpack for military use. Black Edition. Manufactured by Eberlestock."
+    },
+    "AddGearBlack_F5SwitchBlade":{
+        "Name":"Eberlestock F5 Switchblade backpack (Black)",
+        "Shortname":"F5 Switchblade Black",
+        "Description":"A modern, high-quality, low-profile backpack for combat missions in all conditions. Black Edition."
+    },
+    "AddGearBlack_MBSS":{
+        "Name":"Flyye MBSS backpack (Black)",
+        "Shortname":"MBSS Black",
+        "Description":"An extra durable backpack made from 1000D Cordura with a separate pocket for a water bladder and a MOLLE attachment system on the sides. Black Edition."
+    },
+    "AddGearBlack_DayPack":{
+        "Name":"LBT-8005A Day Pack backpack (Black)",
+        "Shortname":"Day Pack Black",
+        "Description":"A simple and reliable 14-liter backpack in Black. Manufactured by London Bridge Trading."
+    },
+    "AddGearBlack_G2Gunslinger":{
+        "Name":"Eberlestock G2 Gunslinger II backpack (Black)",
+        "Shortname":"G2 Gunslinger Black",
+        "Description":"The G2 is a mid-sized pack with a full-width scabbard to better accommodate weapons with larger cross-sections or bulky optics. The wide scabbard also allows it to serve as an excellent laptop or military radio compartment, and because it's also wide at the bottom, users have the option of carrying weapons butt-down or butt-up. Black Edition. Manufactured by Eberlestock."
+    },
+    "AddGearBlack_TacticalSling":{
+        "Name":"Tactical sling bag (Black)",
+        "Shortname":"Sling Black",
+        "Description":"An original sling bag for everyday wear or for active rest. Black Edition"
+    },
+    "AddGearBlack_ShemaghGreen":{
+        "Name":"Shemagh (Black)",
+        "Shortname":"Shemagh B",
+        "Description":"A favorite headpiece of PMCs around the globe. Black Edition"
+    },
+    "AddGearBlack_ShemaghTan":{
+        "Name":"Shemagh Small (Black)",
+        "Shortname":"Shemagh 2 B",
+        "Description":"A favorite headpiece of PMCs around the globe. Alternate Wrap style, Black Edition."
+    },
+    "AddGearBlack_WeldingMask":{
+        "Name":"Tagilla's welding mask (Black)",
+        "Shortname":"WMASK BLACK",
+        "Description":"An armored steel welding mask of Tagilla - the Bossman of Factory. Painted with the special Vanta Black Paint to give it extra Tactical value, UBEY."
+    },
+    "AddGearBlack_6B47DigitalCover":{
+        "Name":"6B47 Ratnik-BSh helmet (Covered - Black)",
+        "Shortname":"6B47 Black",
+        "Description":"6B47 is an aramid helmet of Russian origin. As part of the Ratnik program, it is the new standard-issue helmet for most of the Russian Armed Forces. The 6B47 is similar to previous generation helmets such as the 6B7-1M and 6B27. It has equal protection but weighs slightly less, floats in water, and has mounting equipment for lights and night vision devices. The helmet can be fitted with a variety of covers for different environments. Equipped with a Black cover."
+    },
+    "AddGearBlack_AirFrameHelmet":{
+        "Name":"Crye Precision Airframe Helmet (Black)",
+        "Shortname":"AirFrame Black",
+        "Description":"The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision. Black Finish."
+    },
+    "AddGearBlack_Altyn":{
+        "Name":"'Altyn' bulletproof helmet - Black",
+        "Shortname":"Altyn Black",
+        "Description":"The 'Altyn' helmets passed real combat tests in Afghanistan and Chechnya and are still in service with the Ministry of Internal Affairs of the Russian Federation and the army special forces. Can be equipped with an armored faceshield visor. Black Finish."
+    },
+    "AddGearBlack_MaskaHelmet":{
+        "Name":"Maska-1SCh bulletproof helmet (Black)",
+        "Shortname":"Maska-1SCh Black",
+        "Description":"The Maska-1 bulletproof protective helmet appeared in service in 1991 as a replacement for the 'Sphere' helmet, designed for use by the Ministry of Internal Affairs of the Russian Federation armed forces. The Maska-1SCh (Mask-1 Shield) modification features a steel bulletproof faceshield to ensure maximum protection of the user's face. Black Edition."
+    },
+    "AddGearBlack_BossCap":{
+        "Name":"BOSS cap Black",
+        "Shortname":"Cap Black",
+        "Description":"A fancy Black BOSS cap. Yo, fella, you da real BOSS now!"
+    },
+    "AddGearBlack_USECBaseball":{
+        "Name":"USEC baseball cap (Black)",
+        "Shortname":"CAP BLACK",
+        "Description":"A tactical PMC baseball cap. Black Edition"
+    },
+    "AddGearBlack_FleeceBeanie":{
+        "Name":"Tactical fleece beanie (Black)",
+        "Shortname":"Fleece Black",
+        "Description":"Operate properly only in the tactical fleece hat. It's tactical. Tactical Black Edition. With a Side of Tactical."
+    },
+    "AddGearBlack_Bandana":{
+        "Name":"Bandana (Black)",
+        "Shortname":"Bandana B",
+        "Description":"A black colored bandana, actively used by special forces around the world."
+    },
+    "AddGearBlack_UNTARHelmet":{
+        "Name":"UNTAR helmet (Black)",
+        "Shortname":"UNTAR B",
+        "Description":"A standard-issue helmet used by UN soldiers during the UNTAR mission in Tarkov. Black Edition."
+    },
+    "AddGearBlack_BoonieHat":{
+        "Name":"MIL-TEC boonie hat (Black)",
+        "Shortname":"Boonie Black",
+        "Description":"MIL-TEC-produced boonie hat, which can be used for protection from the sun. Or you can operate wearing it like a true SEAL Team Six operator. Black Edition."
+    },
+    "AddGearBlack_DoorKickerHat":{
+        "Name":"Door Kicker boonie hat (Black)",
+        "Shortname":"Door Kicker Black",
+        "Description":"A well-worn 'PriceLess' boonie hat. It is believed that those who wear it can open any door in this world. Comes with a custom stitched Cigar loop. Black Edition."
+    },
+    "AddGearBlack_UXPro":{
+        "Name":"UX PRO beanie (Black)",
+        "Shortname":"UXPRO B",
+        "Description":"The warm and comfortable UX PRO beanie. For you, only for you. And that guy, too. Black Edition."
+    },
+    "AddGearBlack_MICH2001":{
+        "Name": "MSA ACH TC-2001 MICH Series helmet (Black)",
+        "Shortname": "TC-2001",
+        "Description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
+    },
+    "AddGearBlack_MICH2002":{
+        "Name": "MSA ACH TC-2002 MICH Series helmet (Black)",
+        "Shortname": "TC-2002",
+        "Description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
+    },
+    "AddGearBlack_GPNVG18":{
+        "Name":"GPNVG-18 Night Vision goggles - Black",
+        "Shortname":"GPNVG-18B",
+        "Description":"Panoramic night vision goggles GPNVG-18 (Ground Panoramic Night Vision Goggle). The cardinal difference of this NVG from the others is the presence of four separate EOP, two for each eye. Two Central EOPs are directed forward, while two more are directed outward from the center. This innovative solution allowed to expand the scope of the review to 97 degrees. Also featuring a Fancy Black Coating"
+    },
+    "AddGearBlack_CPC":{
+        "Name":"Crye Precision CPC plate carrier (Goons Edition - Black)",
+        "Shortname":"CPC GE-B",
+        "Description":"The CAGE PLATE CARRIER (CPC) offers unrivaled comfort and load support in a low profile plate carrier configuration. The system supports a range of different pouches. In this case, the configuration is made for conducting assault operations with increased mobility. Black edition."
+    },
+    "AddGearBlack_TV110":{
+        "Name":"WARTECH TV-110 plate carrier rig",
+        "Shortname":"TV-110 Black",
+        "Description":"A plate carrier with armor plates made of armored steel (Russian GOST class 4 protection) with chest and back protection only, equipped with a set of pouches. Manufactured by WARTECH. Black Edition."
+    },
+    "AddGearBlack_CryeAVS":{
+        "Name":"Crye Precision AVS plate carrier",
+        "Shortname":"AVS Black",
+        "Description":"The Crye Precision AVS rig equipped with light armored plates (Russian GOST class 4 protection) from combined materials. One of the most comfortable to wear plate carriers. Black Edition."
+    },
+    "AddGearBlack_KIASSBagariy":{
+        "Name":"NPP KlASS Bagariy armored rig - Black",
+        "Shortname":"Bagariy Black",
+        "Description":"A plate carrier with armor plates made of armored steel (Russian GOST class 4 protection) with chest and back protection only, equipped with a set of pouches. Manufactured by WARTECH. Black Edition."
+    },
+    "AddGearBlack_A18Skanda":{
+        "Name":"Ars Arma A18 Skanda plate carrier (Black)",
+        "Shortname":"A18 Black",
+        "Description":"A plate carrier with armor plates (Russian GOST class 4 protection) with chest and back protection. Equipped with a set of pouches. Manufactured by Ars Arma. Black Edition."
+    },
+    "AddGearBlack_TacticalAlpha":{
+        "Name":"ANA Tactical Alpha chest rig (Black)",
+        "Shortname":"Alpha Black",
+        "Description":"'Alpha' is a high-quality chest rig that fully meets the military standards for reliability and functionality. The combination of integrated pouches and MOLLE straps provides the means of carrying a large number of necessary equipment. The vest is designed as a classic chest rig. In this type of vest, all the gear is located in the front and side parts, while the back part is comprised of adjustment belts and straps. Manufactured by ANA Tactical. Black Edition."
+    },
+    "AddGearBlack_TacticalM1":{
+        "Name":"ANA Tactical M1 armored rig (Black)",
+        "Shortname":"ANA M1 Black",
+        "Description":"A tactical rig with additional class 4 (Russian GOST) armor plates. The vest is created with the use of the best experience of Russian special forces operators. The versatility of the system makes it possible to use this vest both when carrying out city tasks and when performing tasks on rough terrain. Equipped with additional pouches. Manufactured by ANA Tactical. Black Edition."
+    },
+    "AddGearBlack_TacticalM2":{
+        "Name":"ANA Tactical M2 armored rig (Black)",
+        "Shortname":"ANA M2 Black",
+        "Description":"A tactical rig with additional class 4 (Russian GOST) armor plates. The vest is created with the use of the best experience of Russian special forces operators. The versatility of the system makes it possible to use this vest both when carrying out city tasks and when performing tasks on rough terrain. Equipped with additional pouches for 8 magazines. Manufactured by ANA Tactical. Black Edition."
+    },
+    "AddGearBlack_ArsCPC":{
+        "Name":"Ars Arma CPC MOD.2 plate carrier (Black)",
+        "Shortname":"CPC MOD.2 Black",
+        "Description":"The second generation of the CPC body armor designed by Crye Precision and adapted by Ars Arma for use by special forces of the Russian Federation. This modular body armor is based on a polymer corset that fits the body, which avoids the backlash of the body arm during active movement and also contributes to a more even distribution of weight. Made in the assault configuration of pouches and armor elements. Manufactured by Ars Arma. Black Edition."
+    },
+    "AddGearBlack_AVSMBAV":{
+        "Name":"Crye Precision AVS MBAV (Tagilla Black)",
+        "Shortname":"AVS MBAV Black",
+        "Description":"Tagilla's well-worn plate carrier based on the AVS module system by Crye Precision. It has one front panel with three attached pouches. And that's pretty much it. Nothing more, nothing less. Black Edition."
+    },
+    "AddGearBlack_TacticalTacTec":{
+        "Name":"5.11 Tactical TacTec plate carrier (Black)",
+        "Shortname":"TacTec Black",
+        "Description":"A plate carrier with armor plates made of polyethylene (Russian GOST class 5 protection) and a set of pouches for use with assault rifles. Manufactured by 5.11 Tactical. Black Edition."
+    },
+    "AddGearBlack_D3CRX":{
+        "Name":"Haley Strategic D3CRX Chest Harness (Black)",
+        "Shortname":"D3CRX Black",
+        "Description":"The Haley Strategic D3CRX Combat chest rig is one of the most respected PMC rig systems. Ease and comfort of use are supported by the presence of the optimal number of pouches. Black Edition."
+    },
+    "AddGearBlack_LBT1961A":{
+        "Name":"LBT-1961A Load Bearing chest rig (Black Edition)",
+        "Shortname":"LBCR",
+        "Description":"A tactical load-bearing system designed to carry magazines, grenades, and special equipment, while using low-profile body armor. Black Edition. Manufactured by London Bridge Trading."
+    },
+    "AddGearBlack_TV109106":{
+        "Name":"WARTECH TV-109 + TV-106 chest rig (Black)",
+        "Shortname":"TV-106 + TV-109",
+        "Description":"The WARTECH gear rig consisting of the TV-106 Battle Belt and TV-109 heavy suspension system. The shoulder straps are reinforced with foam and have MOLLE straps, and the TV-109 combined with the TV-106 completes the belt system into a full-featured gear rig. Black Edition."
+    },
+    "AddGearBlack_M33SET1":{
+        "Name":"Umka M33-SET1 hunter vest (Black)",
+        "Shortname":"Umka Black",
+        "Description":"The Umka M33-SET1 vest is designed for hunters, travelers, field professionals and security officers. Black Edition."
+    }
+}
